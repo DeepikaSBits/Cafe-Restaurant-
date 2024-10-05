@@ -1,0 +1,33 @@
+.outbox{
+    border: solid 5px white;
+    height: 1000px;
+    background-image: url(bg4.jpg);
+    background-repeat:no-repeat;
+    background-size: 1900px 1000px;
+}
+#nav{
+    border: solid 3px;
+    height: 150px;
+    line-height: 150px;
+    color: white;
+
+}
+#in{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+    padding-right: 30px;
+}
+.out{
+    border: solid 1px;
+}
+#cafe{
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+#menu{
+    border: solid 1px;
+    height: 150px;
+    
+}
